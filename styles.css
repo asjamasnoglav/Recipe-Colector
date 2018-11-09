@@ -1,0 +1,59 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    size: 50px;
+    text-align: Left;
+    margin: 2% 17%;
+}
+
+pre {
+    text-align: left;
+    margin: 2% 17%;
+}
+
+.centered {
+    text-align: center;
+}
+
+.btn-block {
+    background-color: orchid;
+    border-color:purple;
+}
+
+.recipe-element {
+    border-width: 3px;
+    border-color: orchid;
+    border-style: solid;
+    text-align: center;
+    padding: 30px 20px;
+    margin: 1% 30%;
+}
+
+.button {
+    width: 200px;
+    height: 40px;
+    margin-left: 60%;
+    margin-top: 15px;
+}
+
+#title {
+    width: 40%;
+    height: 30px;
+    margin: 50px;
+    
+}
+
+#recipe-text {
+    width: 70%;
+    height: 340px;
+}
+
+#search-text {
+    width: 300px;
+    height: 30px;
+    border-color: orchid;
+    text-align: center;
+}
+
